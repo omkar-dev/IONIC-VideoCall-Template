@@ -15,7 +15,7 @@
     "http": "0.0.1-security",
     "lodash": "^4.17.15",
     "simple-peer": "^9.7.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "stream": "0.0.2",
     "underscore": "^1.10.2",
     "wrtc": "^0.4.4"
